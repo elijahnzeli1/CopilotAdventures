@@ -166,10 +166,3 @@ This solution uses JavaScript and [Node.js](https://nodejs.org). Feel free to us
 
 You've completed your first GitHub Copilot "warmup" adventure! Check out the other adventures located in the [Adventures](../Adventures) folder to see other ways GitHub Copilot can be used.
 
-
-
-
-
-
-
-

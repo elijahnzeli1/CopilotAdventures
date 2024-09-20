@@ -4,7 +4,7 @@
  * @param {number[]} echoes - An array of numbers representing the echoes.
  * @returns {number} The next number in the sequence.
  */
-const echoes = [3, 6, 9, 12, 15, 18, 21, 24], next = 27;
+const echoes = [3, 6, 9, 12, 15, 18, 21, 24, 27], next = 27;
 
 function predictNext(echoes) {
     let difference = echoes[1] - echoes[0];

@@ -12,8 +12,6 @@ function predictNext(echoes) {
     return next;
 } 
 
-
-
 console.log(predictNext(echoes)); // 15
 
 // Store the full sequence including the predicted number in memories
